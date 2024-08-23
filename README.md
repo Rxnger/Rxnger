@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Rxnger
+- 👀 I’m interested in Python and Drones
+- 🌱 I’m currently learning HTML
+- 📫 Discord: iiRxnger
+- ⚡ Fun fact: I like space 🚀

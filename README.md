@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Rxnger
-- 👀 I’m interested in Python and Drones
-- 🌱 I’m currently learning HTML
-- 📫 Discord: iiRxnger
-- ⚡ Fun fact: I like space 🚀
+![Stats](https://github-readme-stats.vercel.app/api?username=Rxnger&show_icons=true&locale=en&theme=dracula&border_radius=0)
